@@ -2,7 +2,7 @@
 
 A from-first-principles implementation of collaborative filtering for movie recommendations, built on the **MovieLens 100k** dataset. This project walks through the full journey of building a recommender system — starting from a raw dot-product model coded by hand, through bias terms and regularization, to fastai's production-ready `collab_learner`, and finally using the learned embeddings to find similar movies.
 
-> **Note on scope:** This README documents `collab-filter.ipynb` exactly as written. Where the notebook doesn't specify something explicitly (e.g. train/validation split ratio, hardware used), that is called out as an assumption rather than invented.
+
 
 ---
 
